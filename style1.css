@@ -3,9 +3,12 @@ background-color:black;
 border: 3px solid yellow}
 h2{color:purple;
 background-color:black;
+text-align: center;
 }
 body{background-image: url("https://wallpaperscraft.com/image/black_background_lines_scratches_69440_1920x1080.jpg");}
  p{color:yellow;
  border:3px solid purple;
 padding: 5px;
-background-color: black}
+background-color: black;
+text-align: center;}
+img{display: block;}
