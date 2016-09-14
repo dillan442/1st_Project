@@ -20,5 +20,17 @@ margin: 10px;
 border: 5px solid white}
 
 #homeofgoat{border: 7px solid purple;
-color:gold;
+color:gold;}
+
+nav{background-color : yellow;
+border:3px solid purple;
+padding: 10px;
+text-align:center;}
+
+a {color:purple;
+background-color: #EBDC45;
+padding: 7px;
+text-align : center;
 }
+
+#bottomlink {display: block;}
